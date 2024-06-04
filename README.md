@@ -1,0 +1,2 @@
+# ESPSoundMeterHA
+ESP SoundMeter Homeassistant
